@@ -1,5 +1,8 @@
 title: "Method4"
 description: "testing website"
+
+theme: null
 remote_theme: nicoelayda/celeste
+
 plugins:
   - jekyll-remote-theme
