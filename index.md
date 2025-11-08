@@ -1,8 +1,3 @@
----
-layout: home
-title: Home
----
-
 # Method 4
 
 1. Your name and UCSD email address, formatted however you’d like.
